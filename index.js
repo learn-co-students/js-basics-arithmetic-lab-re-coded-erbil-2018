@@ -1,9 +1,16 @@
-/*
-Variables defined in the test suite:
-- oldID
-- currentAge
+const newID = 1000000000 + oldID;
 
-You should NOT try to redefine any of the above variables.
-*/
+      
+let ageIsValid=Number.isInteger(currentAge);
+      
+      
+      let randomNumber=Math.floor(Math.random() * 20) -1;
+      
+      
+       const flooredRandomInteger = Math.floor(randomNumber);
 
-// Write your code below this line!
+     let randomInteger=Math.floor(flooredRandomInteger);
+
+      
+      
+let randomUserID=randomNumber+1000000000
