@@ -1,4 +1,4 @@
-const oldID = Math.floor(Math.random() * 100) + 1;
+const oldID = Math.random();
 
 const ages = [26.4, 21, 49.5, 83, 99, 53.3, 74, 94.9, 40, 56.2];
 
